@@ -1,0 +1,25 @@
+/* Efectos para el menú de navegación */
+.nav-link:hover {
+  background-color: #E4C9B6 !important;
+  color: #D7A49A !important;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(228, 201, 182, 0.3);
+}
+
+.nav-button:hover {
+  background-color: #C4948A !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(215, 164, 154, 0.4) !important;
+}
+
+/* Efecto para los botones principales de la página */
+.main-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Animación suave para el logo */
+.logo:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
