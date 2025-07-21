@@ -352,7 +352,6 @@ Si tienes problemas o preguntas:
 - [ ] Chat en vivo para soporte
 - [ ] Sistema de reviews y calificaciones
 - [ ] Integración con WhatsApp
-- [ ] App móvil con React Native
 - [ ] Sistema de cupones y descuentos
 - [ ] Integración con redes sociales
 - [ ] Análisis avanzado con Google Analytics
